@@ -216,6 +216,7 @@ body{
     background-color:lightgrey;
 }
 .ex{
+    width:120%;
     display: block;
     justify-content: center;
 }
@@ -230,8 +231,8 @@ body{
 .b{
     display: inline-block;
     justify-content: center;
-    width:335px;
-    margin: 20px 20px 20px 0px;
+    width:320px;
+    margin: 30px 30px 30px 0px;
     position: relative;
 }
 .video-time{
@@ -249,7 +250,7 @@ body{
 .b img{
     display: inline-block;
     justify-content: center;
-    width:350px;
+    width: 330px;
     cursor: pointer;
 }
 .e{
@@ -279,9 +280,6 @@ body{
 .g{
     margin-left: 10px;
     padding-left: 20px;
-
-}
-.search{
 
 }
 .g{
